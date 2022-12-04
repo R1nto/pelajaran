@@ -1,0 +1,21 @@
+.f{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2{
+    text-align: center;
+}
+
+footer{
+    background-color: yellow;
+    font-size: 20px;
+    color: black;
+}
+
+iframe{
+    width: 400px;
+    height: 200px;
+}
+
